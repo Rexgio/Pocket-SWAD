@@ -68,4 +68,4 @@ Este proyecto se levanta sobre los hombros de gigantes y agitadores. Sin su labo
 **Únete. Contribuye. Cree.** Porque hoy somos un repositorio, pero mañana seremos el estándar. Seguimos.
 
 ---
-*“SWAD es la vista para el ciego y el 5 para el desesperado.”*
+*“Aunque la choni se vista de seda SWADDER se queda 🔥✍️.”*
