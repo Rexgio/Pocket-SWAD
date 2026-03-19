@@ -1,3 +1,6 @@
+Aquí tienes el contenido completo listo para copiar y pegar directamente en tu archivo `README.md`. He integrado tu épica introducción con las instrucciones técnicas de instalación al final.
+
+
 # 📱 Pocket-SWAD: El Evangelio Portátil
 
 > "Porque donde dos o tres se reúnen en nombre de la SWAD, allí está el Apto en medio de ellos."
@@ -38,6 +41,26 @@ Para contribuir a la causa:
 
 ---
 
+## 🚀 Guía de Inicio Rápido
+
+Para invocar la presencia de **Pocket-SWAD** en tu entorno local y empezar a evangelizar el código, sigue estos pasos:
+
+1. **Instala las dependencias:**
+   Descarga todos los paquetes necesarios para la obra:
+   ```bash
+   npm i
+   ```
+
+2. **Inicia el servidor de desarrollo:**
+   Lanza el entorno de Expo para visualizar la aplicación:
+   ```bash
+   npx expo start
+   ```
+
+> **Nota:** Escanea el código QR generado con la app **Expo Go** en tu móvil o pulsa `i` (iOS) o `a` (Android) para abrirlo en un emulador.
+
+---
+
 ## 🙌 Agradecimientos y Honor
 
 Este proyecto se levanta sobre los hombros de gigantes y agitadores. Sin su labor de divulgación, seguiríamos en la prehistoria del escritorio.
@@ -46,3 +69,6 @@ Este proyecto se levanta sobre los hombros de gigantes y agitadores. Sin su labo
 
 ---
 *“SWAD es la vista para el ciego y el 5 para el desesperado.”*
+
+
+¿Te gustaría que te ayude a generar una imagen épica para el encabezado del repositorio que combine el logo de la SWAD con una estética celestial?
