@@ -109,7 +109,7 @@ export default function LoginScreen() {
           >
             {/* ── CAMBIO AQUÍ: Imagen de SWAD ─────────────────────────────── */}
             <Image
-              source={require("../../assets/images/swad.webp")}
+              source={require("../../assets/images/swad.png")}
               style={{
                 width: "80%", // Ajusta el tamaño de la imagen dentro del contenedor
                 height: "80%",
@@ -245,4 +245,3 @@ export default function LoginScreen() {
     </KeyboardAvoidingView>
   );
 }
-

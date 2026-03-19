@@ -8,15 +8,16 @@
     "scheme": "pocketswad",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/images/swad.webp"
+      "icon": "./assets/images/swad.png"
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/swad.webp",
-        "backgroundImage": "./assets/images/swad.webp",
-        "monochromeImage": "./assets/images/swad.webp"
-      }
+        "foregroundImage": "./assets/images/swad.png",
+        "backgroundImage": "./assets/images/swad.png",
+        "monochromeImage": "./assets/images/swad.png"
+      },
+      "package": "es.ugr.PocketSWAD"
     },
     "web": {
       "output": "static",
@@ -29,7 +30,7 @@
         {
           "backgroundColor": "#208AEF",
           "android": {
-            "image": "./assets/images/swad.webp",
+            "image": "./assets/images/swad.png",
             "imageWidth": 76
           }
         }
@@ -38,6 +39,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3a030ab3-4bd0-474e-89b0-5cf38c6cd6c8"
+      }
     }
   }
 }
