@@ -1,3 +1,6 @@
+Aquí tienes el contenido completo listo para copiar y pegar directamente en tu archivo `README.md`. He integrado tu épica introducción con las instrucciones técnicas de instalación al final.
+
+
 # 📱 Pocket-SWAD: El Evangelio Portátil
 
 > "Porque donde dos o tres se reúnen en nombre de la SWAD, allí está el Apto en medio de ellos."
@@ -35,6 +38,26 @@ Para contribuir a la causa:
 * **Visión Pura:** Un *Port View* optimizado que elimina las distracciones del mundo terrenal.
 * **Fe Inquebrantable:** Acceso instantáneo para que la luz de los contenidos te guíe.
 * **Acceso Universal:** Porque la SWAD no entiende de fronteras ni de sistemas operativos.
+
+---
+
+## 🚀 Guía de Inicio Rápido
+
+Para invocar la presencia de **Pocket-SWAD** en tu entorno local y empezar a evangelizar el código, sigue estos pasos:
+
+1. **Instala las dependencias:**
+   Descarga todos los paquetes necesarios para la obra:
+   ```bash
+   npm i
+   ```
+
+2. **Inicia el servidor de desarrollo:**
+   Lanza el entorno de Expo para visualizar la aplicación:
+   ```bash
+   npx expo start
+   ```
+
+> **Nota:** Escanea el código QR generado con la app **Expo Go** en tu móvil o pulsa `i` (iOS) o `a` (Android) para abrirlo en un emulador.
 
 ---
 
