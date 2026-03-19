@@ -69,6 +69,3 @@ Este proyecto se levanta sobre los hombros de gigantes y agitadores. Sin su labo
 
 ---
 *“SWAD es la vista para el ciego y el 5 para el desesperado.”*
-
-
-¿Te gustaría que te ayude a generar una imagen épica para el encabezado del repositorio que combine el logo de la SWAD con una estética celestial?
