@@ -1,4 +1,4 @@
-Aquí tienes el contenido completo listo para copiar y pegar directamente en tu archivo `README.md`. He integrado tu épica introducción con las instrucciones técnicas de instalación al final.
+
 
 
 # 📱 Pocket-SWAD: El Evangelio Portátil
